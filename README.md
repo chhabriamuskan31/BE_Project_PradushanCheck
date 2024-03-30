@@ -7,3 +7,6 @@
 
 ## Dataset Link
  - [Air Quality Data for Indian Cities from 2015 to 2020](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+
+## Diagrams
+ - [Block, Modular and System](https://drive.google.com/file/d/1VS4AcXgqgVeNMLINVGCleIe8oR126a_C/view?usp=sharing)
